@@ -1,0 +1,11 @@
+{
+  "name": "Snapblock",
+  "version": "0.1",
+  "description": "Hides Snap.com popups",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js": ["jquery.js", "snapblock.js"]
+    }
+  ]
+}

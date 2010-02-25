@@ -1,0 +1,9 @@
+= Snapblock
+
+Chrome extension to block Snap.com previews.
+
+== Usage
+
+{Install the plugin}[http://chrome.google.com/extensions/detail/mjljdhgjifipphcmdbihbblpmhnlappp]
+
+That's it!
