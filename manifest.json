@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["http://*/*"],
-      "js": ["jquery.js", "snapblock.js"]
+      "css": ["snapblock.css"]
     }
   ]
 }
