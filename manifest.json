@@ -1,6 +1,6 @@
 {
   "name": "Snapblock",
-  "version": "0.3",
+  "version": "0.3.1",
   "description": "Hides Snap.com popups",
   "icons": {
     "48": "icon48.png",
@@ -11,5 +11,6 @@
       "matches": ["http://*/*"],
       "css": ["snapblock.css"]
     }
-  ]
+  ],
+  "manifest_version": 2
 }
